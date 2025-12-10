@@ -8,8 +8,8 @@ permalink: /research.html
 
 ## Papers / Working papers
 
-- **A General Equilibrium Model of Corruption Cycles** — [PDF](/A_General_Equilibrium_Model_of_Corruption_Cycles.pdf)
-- **See it to Believe it (Experimental …)** — [PDF](/See_it_to_Believe_it.pdf)
+- **A General Equilibrium Model of Corruption** — [PDF](/A_General_Equilibrium_Model_of_Corruption.pdf)
+- **See it to Believe it (Experimental …)** — [PDF](/see-it-to-believe-it-experimental-evidence-on-status-consumption-among-the-youth.pdf)
 
 ## Other material
 - Full CV: [CV (PDF)](/CV.pdf)
